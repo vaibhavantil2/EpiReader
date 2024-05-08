@@ -14,4 +14,7 @@ target 'EpiReader' do
   pod 'Crashlytics'
 
   pod 'Google-Mobile-Ads-SDK'
+  pod 'IronSource', '~> 7.1.6.0'  # Adjust the version as needed
+  pod 'UnityAds'  # Include the desired version if specific version is needed
+
 end
